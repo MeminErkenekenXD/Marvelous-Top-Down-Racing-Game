@@ -15,4 +15,9 @@ Marvelous Top Down Racer is a racing game with top down view made with Unity. Su
 
 # Mechanics
 Car behaviour is based on three stats <BR>
-**Top Speed** | **Acceleration** | **Handling** 
+**Top Speed** : Determines the cars top speed. <br>
+**Acceleration** : Determines how fast the car accelerates. <br>
+**Handling** : Determine how well car takes turns. <br>
+
+
+
