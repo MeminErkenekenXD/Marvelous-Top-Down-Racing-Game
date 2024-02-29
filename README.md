@@ -13,6 +13,8 @@ Marvelous Top Down Racer is a racing game with top down view made with Unity. Su
 * **Drift** : Hold drift to enhance steering with a tighter but more slippery turning arc without losing speed.
 * **Reset** : Reset the car to the last checkpoint passed.
 
+Key bindings can be displayed in game settings. 
+
 # Mechanics
 Car behaviour is based on three stats <BR>
 
