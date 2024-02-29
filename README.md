@@ -33,5 +33,7 @@ of the throttle. But when car reaches high speeds the reward will be bigger.
 
 The car turns better when the player releases throttle , and it turns even better while braking.
 However these actions reduces speed. In order to take sharp turns without losing speed, the player must master drifting.
-Drifting allows car to turn without losing speed.
+Drifting allows the car to turn without losing speed.
+
+Both of these system goes hand in hand where skilled players are rewarded for understanding and mastering the cars,tracks and system.
 
