@@ -15,9 +15,15 @@ Marvelous Top Down Racer is a racing game with top down view made with Unity. Su
 
 # Mechanics
 Car behaviour is based on three stats <BR>
+
 **Top Speed** : Determines the cars top speed. <br>
 **Acceleration** : Determines how fast the car accelerates. <br>
 **Handling** : Determine how well car takes turns. <br>
 
+Speed System : The car will gain speed as long as the car keeps going and the player is applying throttle until it reaches its top speed (top speed stat).
+The car has higher acceleration when it takes off, but when the car reaches its acceleration limit (acceleration stat). It will accelarate more slowly until it reaches top speed.
 
+Turning System : The car turns better when the player releases throttle , and it turns even better while braking.
+However these actions reduces speed. In order to take sharp turns without losing speed, the player must master drifting.
+Drifting allows car to turn without losing speed.
 
