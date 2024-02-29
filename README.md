@@ -20,10 +20,18 @@ Car behaviour is based on three stats <BR>
 **Acceleration** : Determines how fast the car accelerates. <br>
 **Handling** : Determine how well car takes turns. <br>
 
-Speed System : The car will gain speed as long as the car keeps going and the player is applying throttle until it reaches its top speed (top speed stat).
-The car has higher acceleration when it takes off, but when the car reaches its acceleration limit (acceleration stat). It will accelarate more slowly until it reaches top speed.
+**Speed System**
 
-Turning System : The car turns better when the player releases throttle , and it turns even better while braking.
+The car will gain speed as long as the player keeps applying throttle until it reaches its top speed (top speed stat).
+The car has higher acceleration when it takes off, but when the car reaches its acceleration limit (acceleration stat). 
+It will accelarate very slowly until it reaches top speed. Meaning if car has low high top speed but high acceleration,
+it will accelerate very quickly but also hit its cap quickly. But if car has high top speed but low acceleration.
+Car will take more time to reach its max speed requiring player to keep accelerating without making mistakes or letting go
+of the throttle. But when car reaches high speeds the reward will be bigger.
+
+**Turning System**
+
+The car turns better when the player releases throttle , and it turns even better while braking.
 However these actions reduces speed. In order to take sharp turns without losing speed, the player must master drifting.
 Drifting allows car to turn without losing speed.
 
