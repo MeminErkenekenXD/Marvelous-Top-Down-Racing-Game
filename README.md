@@ -37,5 +37,13 @@ The car turns better when the player releases throttle , and it turns even bette
 However these actions reduces speed. In order to take sharp turns without losing speed, the player must master drifting.
 Drifting allows the car to turn without losing speed.
 
-Both of these system goes hand in hand where skilled players are rewarded for understanding and mastering the cars, the tracks, and the game's system
+Both of these system goes hand in hand where skilled players are rewarded for understanding and mastering the cars, the tracks, and the game's system.
+
+# Options and Settings
+- Players can control the sound of the game with 3 different categories, Music , SFX and Engine
+- Players can control on whether if they want to use a controller or keyboard for their car. If you have 4 players but 2 controllers . 2 player can control their car with keyboard while the other 2 uses controllers.
+- Players can control on how many laps are required to be done to finish the race.
+
+# Links
+
 
