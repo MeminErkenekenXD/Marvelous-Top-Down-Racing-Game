@@ -75,9 +75,9 @@ However when the car starts reaching high speeds, camera pans back to increase t
 
 
 # Options and Settings
-- Players can control the sound of the game with 3 different categories, Music , SFX and Engine
-- Players can control on whether if they want to use a controller or keyboard for their car. If you have 4 players but 2 controllers . 2 player can control their car with keyboard while the other 2 uses controllers.
-- Players can control on how many laps are required to be done to finish the race.
+- Players can change the sound of the game with 3 different categories, Music , SFX and Engine
+- Players can choose whether if they want to use a controller or keyboard for their car. If you have 4 players but 2 controllers . 2 player can control their car with keyboard while the other 2 uses controllers.
+- Players can determine how many laps are required to be done to finish the race.
 
 # Marvelous Top Down Racer for Android
 Game fully supports to be played on Android devices. The car can be either controlled with a connected gamepad or with the buttons on the touchscreen.
