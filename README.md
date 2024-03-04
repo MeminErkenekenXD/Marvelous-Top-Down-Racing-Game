@@ -1,10 +1,23 @@
 # Marvelous-Top-Down-Racing-Game
 Marvelous Top Down Racer is a racing game with top down view made with Unity. Supports up to 4 players with local multiplayer.
+
+![gif1](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/9f9f7809-959c-40a7-9f7c-e0b45949e5ca) 
+
 # Features and Content
 - **Single Player** : Single player game mode is where you can test out cars and get familiar with tracks and *Try to get the Best Lap Times*.
+
+![mtdr2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/bb9adfc6-29ed-4c34-84e0-6e220e10332e)
+
+  
 - **Local Multiplayer** : Game supports *Split-Screen Local Multiplayer up to 4 Players* with full *Gamepad Support*.
+
+![menu1](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/a6228504-27c0-43c6-bdd4-1fe313ae6414)
+
+![mtdr6](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/b55c25a3-85d9-45f7-a5e8-cf911a13b5af)  
+  
 - **8 Unique Cars** :  All having varying *Styles and Stats*. They also have *Unique Engine Sounds*.
 - **2 Tracks** : One has *Long Straights* to build speed and *Tight Corners*. While other is smaller but has more *Consecutive Turns* with a *Bridge Mechanic*.
+
 
 # Controls
 * **Forward** : Throttle, which is used to accelerate.
@@ -22,6 +35,8 @@ Car behaviour is based on three stats <BR>
 **Acceleration** : Determines how fast the car accelerates. <br>
 **Handling** : Determine how well car takes turns. <br>
 
+![mtdr7](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/adc33fc8-559e-40f7-bfcf-991e1b40e5d8)
+
 **Speed System**
 
 The car will gain speed as long as the player keeps applying throttle until it reaches its top speed (top speed stat).
@@ -31,13 +46,33 @@ it will accelerate very quickly but also hit its cap quickly. But if car has hig
 Car will take more time to reach its max speed requiring player to keep accelerating without making mistakes or letting go
 of the throttle. But when car reaches high speeds the reward will be bigger.
 
+![mtdr2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/f3360735-40c9-478c-a761-5a1801cb9071)
+
+
 **Turning System**
 
 The car turns better when the player releases throttle , and it turns even better while braking.
 However these actions reduces speed. In order to take sharp turns without losing speed, the player must master drifting.
-Drifting allows the car to turn without losing speed.
+Drifting allows the car to turn without losing speed. <br>
+
+![gif2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/dcd3fe85-3503-4e9c-942c-8adb78c5de3d)
+
 
 Both of these system goes hand in hand where skilled players are rewarded for understanding and mastering the cars, the tracks, and the game's system.
+
+**Camera System**
+
+Camera is designed to move relative to car's speed and position for player to get a more clear sight of what is ahead, it also gives a sense of motion. <br>
+
+When the car stays still, it is approximately in the center of the screen. 
+
+![cam](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/a3d08e7b-bd84-4719-abcc-1e0f480aa064) 
+
+However when the car starts reaching high speeds, camera pans back to increase the view field. 
+
+![cam2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/2b485c17-9229-49b1-9455-3a782a531db9) 
+
+
 
 # Options and Settings
 - Players can control the sound of the game with 3 different categories, Music , SFX and Engine
