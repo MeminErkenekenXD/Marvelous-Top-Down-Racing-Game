@@ -43,7 +43,7 @@ The car will gain speed as long as the player keeps applying throttle until it r
 The car has higher acceleration when it takes off, but when the car reaches its acceleration limit (acceleration stat). 
 It will accelarate very slowly until it reaches top speed. Meaning if car has low high top speed but high acceleration,
 it will accelerate very quickly but also hit its cap quickly. But if car has high top speed but low acceleration.
-Car will take more time to reach its max speed requiring player to keep accelerating without making mistakes or letting go
+Car will take more time to reach its max speed requiring player to avoid mistakes while never letting go
 of the throttle. But when car reaches high speeds the reward will be bigger.
 
 ![mtdr2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/f3360735-40c9-478c-a761-5a1801cb9071)
