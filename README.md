@@ -83,5 +83,7 @@ However when the car starts reaching high speeds, camera pans back to increase t
 Game fully supports to be played on Android devices. The car can be either controlled with a connected gamepad or with the buttons on the touchscreen.
 
 # Links
+Windows : https://drive.google.com/file/d/14_t_thmLIgsG-s2AInrG57MWP3fZxsai/view?usp=sharing
 
+Android : https://drive.google.com/file/d/1WkYUlgpx48z3RtiiBj303SkORsg18swC/view?usp=drivesdk
 
