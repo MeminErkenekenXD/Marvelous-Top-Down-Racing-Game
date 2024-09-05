@@ -9,12 +9,11 @@ Marvelous Top Down Racer is a racing game with top down view made with Unity. Su
 ![mtdr2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/bb9adfc6-29ed-4c34-84e0-6e220e10332e)
 
   
-- **Local Multiplayer** : Game supports *Split-Screen Local Multiplayer up to 4 Players* with full *Gamepad Support*.
-
-[Screenshots/1CarselectMenuYazili.jpg](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/blob/649287e0148927d0f5471a442dbac63526bd9a8b/Screenshots/1CarselectMenuYazili.jpg)
+![Screenshots/1CarselectMenuYazili.jpg](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/blob/649287e0148927d0f5471a442dbac63526bd9a8b/Screenshots/1CarselectMenuYazili.jpg)
 
 ![mtdr6](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/b55c25a3-85d9-45f7-a5e8-cf911a13b5af)  
-  
+
+- **Local Multiplayer** : Game supports *Split-Screen Local Multiplayer up to 4 Players* with full *Gamepad Support*.
 - **8 Unique Cars** :  All having varying *Styles and Stats*. They also have *Unique Engine Sounds*.
 - **2 Tracks** : One has *Long Straights* to build speed and *Tight Corners*. While other is smaller but has more *Consecutive Turns* with a *Bridge Mechanic*.
 
