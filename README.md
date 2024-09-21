@@ -4,7 +4,7 @@ Marvelous Top Down Racer is a racing game with top down view made with Unity. Su
 ![gif1](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/9f9f7809-959c-40a7-9f7c-e0b45949e5ca) 
 
 # Features and Content
-- **Single Player** : Single player game mode is where you can test out cars and get familiar with tracks and *Try to get the Best Lap Times*.
+- **Single Player** : Single player game mode is where you can compete in tournaments in "Championship" mode , race against cpu with customised race settings in "Quick Race" mode or test out cars and get familiar with tracks and *Try to get the Best Lap Times to unlock faster cars* in "Time Attack" mode.
 
 ![mtdr2](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/bb9adfc6-29ed-4c34-84e0-6e220e10332e)
 
@@ -13,6 +13,7 @@ Marvelous Top Down Racer is a racing game with top down view made with Unity. Su
 
 ![mtdr6](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/b55c25a3-85d9-45f7-a5e8-cf911a13b5af)  
 
+- **Fair And Challenging AI** : AI opponents doesn't travel on rails nor cheat. They calculate their inputs and use their pathfinding avoidance system for navigation. They also have similiar car stats to cars already in game thus eliminating any unfair advantage they might get. 
 - **Local Multiplayer** : Game supports *Split-Screen Local Multiplayer up to 4 Players* with full *Gamepad Support*.
 - **13 Unique Cars** :  All having varying *Styles and Stats*. They also have *Unique Engine Sounds*.
 - **6 Tracks** : One has *Long Straights* to build speed and *Tight Corners*. While other is smaller but has more *Consecutive Turns* with a *Bridge Mechanic*.
@@ -76,10 +77,12 @@ However when the car starts reaching high speeds, camera pans back to increase t
 # Options and Settings
 - Players can change the sound of the game with 3 different categories, Music , SFX and Engine
 - Players can choose whether if they want to use a controller or keyboard for their car. If you have 4 players but 2 controllers . 2 player can control their car with keyboard while the other 2 uses controllers.
+- Players can customise their player name which will be shown during race and end race leaderboard.
 - Players can determine how many laps are required to be done to finish the race.
 
 # Marvelous Top Down Racer for Android
 Game fully supports to be played on Android devices. The car can be either controlled with a connected gamepad or with the buttons on the touchscreen.
+![4 5touchscreen](https://github.com/user-attachments/assets/5576854d-505b-439e-a35c-6b1f78e40ab7)
 
 # Links
 Windows : https://drive.google.com/file/d/14_t_thmLIgsG-s2AInrG57MWP3fZxsai/view?usp=sharing
