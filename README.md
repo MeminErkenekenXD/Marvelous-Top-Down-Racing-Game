@@ -87,5 +87,5 @@ Game fully supports to be played on Android devices. The car can be either contr
 # Links
 Windows : https://drive.google.com/file/d/14_t_thmLIgsG-s2AInrG57MWP3fZxsai/view?usp=sharing
 
-Android : https://drive.google.com/file/d/1WkYUlgpx48z3RtiiBj303SkORsg18swC/view?usp=drivesdk
+Android : https://drive.google.com/file/d/1WkYUlgpx48z3RtiiBj303SkORsg18swC/view?usp=drivesdk (Soon to be released on Google Play with bunch of neat tweaks ;) )
 
