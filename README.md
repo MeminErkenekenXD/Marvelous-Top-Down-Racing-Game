@@ -1,5 +1,6 @@
 # Marvelous-Top-Down-Racing-Game
 Marvelous Top Down Racer is a racing game with top down view made with Unity. Supports up to 4 players with local multiplayer.
+Available for both Windows and Android (Google Play)
 
 ![gif1](https://github.com/MeminErkenekenXD/Marvelous-Top-Down-Racing-Game/assets/97636236/9f9f7809-959c-40a7-9f7c-e0b45949e5ca) 
 
@@ -87,5 +88,5 @@ Game fully supports to be played on Android devices. The car can be either contr
 # Links
 Windows : https://drive.google.com/file/d/14_t_thmLIgsG-s2AInrG57MWP3fZxsai/view?usp=sharing
 
-Android : https://drive.google.com/file/d/1WkYUlgpx48z3RtiiBj303SkORsg18swC/view?usp=drivesdk (Soon to be released on Google Play with bunch of neat tweaks ;) )
+Android : https://play.google.com/store/apps/details?id=com.ellikurusgames.marvelousracer
 
